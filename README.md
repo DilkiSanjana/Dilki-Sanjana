@@ -11,6 +11,5 @@ Currently learning Java and Web Development
 
 ### Projects
 - Medical Appointment Scheduling System
-- Elderly Care Management System
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/dilki-sanjana-32032937b/
