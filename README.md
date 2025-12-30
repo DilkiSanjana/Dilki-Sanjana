@@ -7,7 +7,6 @@ Currently learning Java and Web Development
 ### Skills
 - Java
 - HTML, CSS, JavaScript
-- Git & GitHub
 
 ### Projects
 - Medical Appointment Scheduling System
