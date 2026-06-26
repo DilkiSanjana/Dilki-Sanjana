@@ -6,7 +6,7 @@
   Hi, I'm <span style="color:#00F7FF;">Dilki Sanjana</span>
 </h1>
 
-### Passionate About Software Engineering & Cloud Technologies
+### Passionate About Software Engineering
 
 <p>
 I am a motivated undergraduate specializing in Information Technology and Software Engineering at SLIIT.  
